@@ -1,8 +1,45 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+# 🚀 Refokus Website Clone
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+A sleek and dynamic clone of the [Refokus](https://www.refokus.com) website, showcasing advanced animation techniques and smooth interactions using React.
+
+## 🌍 Live Demo
+👉 [View the live site!](https://refokus-project-neon.vercel.app/)
+
+## ⚙️ Tech Stack
+
+- **Frontend**: React.js, React Router
+- **Styling**: Tailwind CSS
+- **Animations**: GSAP, Locomotive Scroll
+- **Deployment**: Vercel
+
+## 🌟 Features
+
+- Smooth, complex animations 💫
+- Pixel-perfect responsive design 📱
+- User-friendly navigation and layout
+
+## 🛠 Installation
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/yourusername/refokusProject.git
+   ```
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+3. Start the app:
+   ```bash
+   npm start
+   ```
+
+## 🎯 Future Enhancements
+
+- Improve performance on mobile devices
+- Add custom animations to enhance user experience
+
+---
+
+This project showcases my skills in building interactive and visually appealing websites with React. Contributions are always welcome! 🎨
