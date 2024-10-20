@@ -24,7 +24,7 @@ A sleek and dynamic clone of the [Refokus](https://www.refokus.com) website, sho
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/refokusProject.git
+   git clone https://github.com/ritik913553/refokusProject.git
    ```
 2. Install dependencies:
    ```bash
